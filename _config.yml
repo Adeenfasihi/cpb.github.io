@@ -28,7 +28,7 @@ twitter_username: adeenfasihi
 github_username:  Adeenfasihi
 
 # Build settings
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
